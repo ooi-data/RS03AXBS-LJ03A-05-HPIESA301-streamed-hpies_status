@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXBS-LJ03A-05-HPIESA301-streamed-hpies_status
-last_request: '2021-12-21T23:25:40.958410Z'
+last_request: '2022-01-01T01:41:41.470188Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXBS-LJ03A-05-HPIESA301-streamed-hpies_status/main/history/response.json
 status: discontinued
